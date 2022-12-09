@@ -127,7 +127,19 @@
       {
         "linkedin": "linkedin.com/in/timothy-lin-a05b11251/",
         "instagram": "https://www.instagram.com/timqlin"
+       
       }
     ]
-  }
+  },
+  {
+    "Name": "Daniel Birman",
+    "Grade": "Freshman",
+    "Domain": "Last Lecture",
+    "Image": "https://ca.slack-edge.com/T046LEY6NBF-U048UDF8JQH-6b5b741e77d3-512",
+    "Socials": [
+      {
+        "linkedin": "https://www.linkedin.com/in/daniel-birman/"
+       
+      }
+    ]
 ]
